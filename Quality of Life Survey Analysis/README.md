@@ -1,0 +1,1 @@
+This project was done for a social work student at Utah Valley University. In this project, I analyzed the responses of caretakers of individuals with autism to assess variouis aspects of their quality of life. This was done in R, primarily using Chi-squared tests to evaluate relationships between categorical variables.
